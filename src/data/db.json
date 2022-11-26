@@ -1,0 +1,58 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"yakusa",
+            "email":"yakuza@gmail.com"
+        },
+        {
+            "id":2,
+            "name":"karatsuba",
+            "email":"karatsuba@gmail.com"
+        },
+        {
+            "id":3,
+            "name":"yoane",
+            "email":"yoane@gmail.com"
+        }
+
+    ],
+    "projects":[
+        {
+            "id":1,
+            "title":"blog with react",
+            "category":"web development",
+            "description":"thi project is about..",
+            "author":"",
+            "creation-date":"",
+            "contributors":[]
+        },
+        {
+            "id":2,
+            "title":"book store management",
+            "category":"web development",
+            "description":"",
+            "author":"",
+            "creation-date":"",
+            "contributors":[]
+        },
+        {
+            "id":3,
+            "title":"book store management 3",
+            "category":"mobile development",
+            "description":"",
+            "author":"",
+            "creation-date":"",
+            "contributors":[]
+        },
+        {
+            "id":4,
+            "title":"book store management",
+            "category":"web architecture",
+            "description":"",
+            "author":"",
+            "creation-date":"",
+            "contributors":[]
+        }
+    ]
+}
